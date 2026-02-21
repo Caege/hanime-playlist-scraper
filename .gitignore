@@ -1,0 +1,19 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# playwright browsers
+ms-playwright/
+
+# outputs
+*.txt
+playlists.json
+
+# OS junk
+.DS_Store
+Thumbs.db
