@@ -28,7 +28,7 @@ It **will NOT work** without installing the browser runtime.
 
 ```bash
 git clone https://github.com/Caege/hanime-playlist-scraper.git
-cd hanime_py
+cd .\hanime-playlist-scraper\
 ```
 
 Create environment (recommended):
